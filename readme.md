@@ -10,7 +10,7 @@ I'm a Software Engineer, fullstack javascript developer(MERN). I'm passionate ab
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Nodejs, Git, Mongodb.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mjbabdussalam@gmail.com
+- 📫 
 
 ---
 
