@@ -14,5 +14,5 @@ I'm a Software Engineer, fullstack javascript developer(MERN). I'm passionate ab
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdussalam-Mujeeb-ur-rahman&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Abdussalam's GitHub stats" /> |
+|
 | ------------- | ------------- |
