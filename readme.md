@@ -7,7 +7,7 @@ I'm a Software Engineer, fullstack javascript developer(MERN). I'm passionate ab
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Nodejs, Git, Mongodb.
+- 🌱 I’m proficient in HTML, CSS, JavaScript, SASS, JQUERY, NODEJS, EXPRESS, MONGODB, SQL and I am currently studying REACT, POSTGRES
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer (Intern or Junior level).
 - 📫 
