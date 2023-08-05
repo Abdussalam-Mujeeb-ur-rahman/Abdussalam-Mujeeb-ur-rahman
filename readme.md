@@ -10,7 +10,7 @@ And most especially, I extract imaginary ideas into the real and virtual realm t
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm an alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m proficient in HTML, CSS, JAVASCRIPT, SASS, BOOTSTRAP, JQUERY, REACT, TAILWIND, NODEJS, EXPRESS, MONGODB, SQL, TYPESCRIPT and I am currently building a fullstack app with the latest skills I got (react), and a rest API (typescript & express) 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer (Intern or Junior level).
