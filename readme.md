@@ -13,3 +13,12 @@ I am a junior backend engineer, focused on harnessing my skills and incredibly i
 - 🌱 I’m proficient in Frontend - HTML, CSS, JavaScript, React(little), JQuery, Bootstrap, Tailwindcss | Backend - Nodejs, ExpressJs, MongoDB | Cloud - Docker.
 - 😊 I’m currently increasing my values.
 
+### My Work Experience, click 👇 to read about my experience
+- [Junior Backend Developer at Basitech](https://allahisrabb.netlify.com/pages/work_experience/basitech/index.html)
+- [React Developer Intern at HThub](https://allahisrabb.netlify.app/pages/work_experience/hthub/)
+
+### My Activities
+- I draft [Database diagrams](https://allahisrabb.netlify.app/pages/database_diagrams/)
+- I build [Documentations](https://allahisrabb.netlify.app/pages/documentations/)
+- I build [API workflows](https://allahisrabb.netlify.app/pages/api_workflows/)
+- I am currently into the [100DaysOfCode challenge](https://allahisrabb.netlify.app/pages/100daysofcode/)
