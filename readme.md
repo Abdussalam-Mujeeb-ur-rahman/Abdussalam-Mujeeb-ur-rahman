@@ -10,7 +10,7 @@ I am a junior backend engineer, focused on harnessing my skills and incredibly i
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m proficient in Frontend - HTML, CSS, JavaScript, React(little), JQuery, Bootstrap, Tailwindcss | Backend - Nodejs, ExpressJs, MongoDB | Cloud - Docker.
+- 🌱 I’m proficient in Frontend - HTML, CSS, JavaScript, React(little), JQuery, Bootstrap, Tailwindcss | Backend - Nodejs, ExpressJs | Database - MongoDB, MySQL, PostgreSQL | Cloud - Docker.
 - 😊 I’m currently increasing my values.
 
 ### My Work Experience, click 👇 to read about my experience
