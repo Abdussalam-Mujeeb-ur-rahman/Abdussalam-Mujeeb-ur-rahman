@@ -4,6 +4,8 @@
 
 
 I am a backend developer, focused on harnessing my skills and incredibly increasing my value. I get easily intrigued by new technologies.
+I spend alot of time working on something(could be a feature, setting up of API or any other thing), and it's all because I make sure my work is free from bug (might not be 100% free), not because I'm the best but because I hate it and it hurts a lot to discover that what I've built is a wack. I hate it so much.
+I am also inclined towards security, I make sure my applications or whatever I'm building or involved in, is very secured. It also takes time.
 
 
 **Here's a quick summary about me**:
