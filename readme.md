@@ -1,25 +1,43 @@
 # 👋 Hey there, I'm Abdussalam Mujeeb-ur-rahman!  
 
-🚀 **Backend Engineer | Freelancer | Web Solutions Architect**  
+🚀 **Backend Engineer | Fullstack Developer | Freelancer | Web Solutions Architect**  
 
-I specialize in **building high-performance, scalable backend systems** with a strong focus on efficiency and security. My tech stack includes:  
-🔹 **Node.js | Express.js | AdonisJS** – Robust, scalable backend solutions  
-🔹 **MongoDB | MySQL** – Efficient data management & optimization  
-🔹 **React.js** – Bringing interactivity to the frontend  
+I specialize in **building softwares (backend dedicated)**. My expertise also extends to **fullstack development**.  
 
-### 💡 What I Do  
-As a **freelance developer**, I craft tailored web solutions for businesses, helping them launch high-converting websites in just **one week**!  
+## 🛠 Tech Stack & Skills  
+- **Backend:** Node.js, Express.js, AdonisJS  
+- **Frontend:** React.js, Angular  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **ORMs:** Prisma, Mongoose, Sequelize 
+- **Version Control & Collaboration:** Git, GitHub
 
-I also built **[Get-It-Now](https://get-it-now.com.ng)** – a platform designed to **streamline web development** by providing businesses with a variety of ready-to-use, high-quality website templates.  
+---
 
-### ✨ Why Work With Me?  
-✅ **Fast Turnaround** – Get your website up & running in just a week  
-✅ **Optimized for Performance** – SEO-friendly, fast-loading web apps  
-✅ **API-First Approach** – Scalable and efficient backend architectures  
-✅ **Clean & Maintainable Code** – Following best coding practices  
+## 💡 What I Do  
+As a **freelance developer**, I craft tailored web solutions for businesses, helping them launch high-converting websites in just **one week**.  
 
-### 🌎 Let's Connect  
+I’ve worked as a **Backend Lead** on large-scale systems like **school management platforms**, where I:  
+- Designed API workflows for smoother collaboration  
+- Built multi-level authorization systems  
+- Created well-documented APIs for frontend integration  
+- Led API monitoring, optimization, and performance tuning  
+
+**Projects:**  
+- **[Get-It-Now](https://get-it-now.com.ng)** – Streamlines web development with ready-to-use templates.  
+- **[CleverCraft] (https://clevercraft.onrender.com/)** – A cover letter generator built by freelancers, for freelancers (Frontend Engineer).  
+- **[Reqline] (https://reqline-frontend.vercel.app/)** – A fullstack project for parsing and executing HTTP requests using custom syntax.  
+
+---
+
+## ✨ Why Work With Me?  
+- **Fullstack Capability** – Backend specialist with good frontend skills 
+- **Proven Experience** – From startups to client-focused projects  
+
+---
+
+## 🌎 Let's Connect  
 📩 **Reach out for collaborations, projects, or just a tech chat!**  
 💼 **Freelance inquiries? I'm open to exciting opportunities!**  
+📚 **Some of my technical write-ups:** [Hashnode Articles](https://hashnode.com/@allahisrabb)  
 
-_Stay blessed, and happy coding!_ 🚀  
+_Stay blessed, and happy coding!_ 🚀
