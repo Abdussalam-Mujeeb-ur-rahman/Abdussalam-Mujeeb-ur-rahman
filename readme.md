@@ -1,43 +1,13 @@
-# 👋 Hey there, I'm Abdussalam Mujeeb-ur-rahman!  
+# ALLAHisRABB
 
-🚀 **Backend Engineer | Fullstack Developer | Freelancer | Web Solutions Architect**  
+I build software at the point where friction becomes impossible to ignore.
 
-I specialize in **building softwares (backend dedicated)**. My expertise also extends to **fullstack development**.  
+I’m a freelance software engineer working across front-end development, back-end systems, full-stack applications, system design, and AI-powered tools. I enjoy turning unclear ideas, repetitive processes, and messy workflows into products that people can actually use. [https://allahisrabb.pages.dev/](https://allahisrabb.pages.dev/)
 
-## 🛠 Tech Stack & Skills  
-- **Backend:** Node.js, Express.js, AdonisJS  
-- **Frontend:** React.js, Angular  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **ORMs:** Prisma, Mongoose, Sequelize 
-- **Version Control & Collaboration:** Git, GitHub
+I’m currently building the Perrypays ecosystem, working on business websites and web applications through [https://get-it-now.com.ng](https://get-it-now.com.ng), and contributing as an external engineer to NDA-protected products, including fintech infrastructure.
 
----
+I’m also developing Transcribe, a local-first audio and video transcription tool born from a simple frustration: constantly turning voice notes and screen recordings into useful text. What began as a terminal experiment is becoming a broader playground for private transcription, translation, and future desktop and Android experiences. [https://github.com/Abdussalam-Mujeeb-ur-rahman/transcribe](https://github.com/Abdussalam-Mujeeb-ur-rahman/transcribe)
 
-## 💡 What I Do  
-As a **freelance developer**, I craft tailored web solutions for businesses, helping them launch high-converting websites in just **one week**.  
+I use AI heavily... not as a replacement for engineering judgment, but as a way to explore faster, test ideas, and shorten the distance between “this is annoying” and “it works now.”
 
-I’ve worked as a **Backend Lead** on large-scale systems like **school management platforms**, where I:  
-- Designed API workflows for smoother collaboration  
-- Built multi-level authorization systems  
-- Created well-documented APIs for frontend integration  
-- Led API monitoring, optimization, and performance tuning  
-
-**Projects:**  
-- **[Get-It-Now](https://get-it-now.com.ng)** – Streamlines web development with ready-to-use templates.  
-- **[CleverCraft] (https://clevercraft.onrender.com/)** – A cover letter generator built by freelancers, for freelancers (Frontend Engineer).  
-- **[Reqline] (https://reqline-frontend.vercel.app/)** – A fullstack project for parsing and executing HTTP requests using custom syntax.  
-
----
-
-## ✨ Why Work With Me?  
-- **Fullstack Capability** – Backend specialist with good frontend skills 
-- **Proven Experience** – From startups to client-focused projects  
-
----
-
-## 🌎 Let's Connect  
-📩 **Reach out for collaborations, projects, or just a tech chat!**  
-💼 **Freelance inquiries? I'm open to exciting opportunities!**  
-📚 **Some of my technical write-ups:** [Hashnode Articles](https://hashnode.com/@allahisrabb)  
-
-_Stay blessed, and happy coding!_ 🚀
+I’m open to freelance projects, collaborations, and conversations with people building useful things.
