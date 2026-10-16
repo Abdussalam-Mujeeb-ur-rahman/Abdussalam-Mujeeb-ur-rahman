@@ -1,13 +1,18 @@
 # ALLAHisRABB
 
-I build software at the point where friction becomes impossible to ignore.
+I’m a full-stack software engineer with professional experience since 2021 building and operating applications across fintech, commerce and business operations. I also design and develop websites and web applications for businesses through get-it-now websites: https://get-it-now.com.ng
 
-I’m a freelance software engineer working across front-end development, back-end systems, full-stack applications, system design, and AI-powered tools. I enjoy turning unclear ideas, repetitive processes, and messy workflows into products that people can actually use. [https://allahisrabb.pages.dev/](https://allahisrabb.pages.dev/)
+I work with React and TypeScript on the frontend, and Node.js, Express, REST APIs, PostgreSQL, Supabase and Redis across backend and data workflows. My work includes payments, authentication, role-based access, dashboards, third-party integrations, deployment and production troubleshooting.
 
-I’m currently building the Perrypays ecosystem, working on business websites and web applications through [https://get-it-now.com.ng](https://get-it-now.com.ng), and contributing as an external engineer to NDA-protected products, including fintech infrastructure.
+I’ve contributed production code to an NDA-protected fintech platform that has processed more than ₦45 million in transactions, working on payment, invoicing, settlement, reporting and administrative experiences. I’ve also built and maintained parts of the PerryPays commerce ecosystem, including customer and admin workflows, payment integrations, APIs and database architecture.
 
-I’m also developing Transcribe, a local-first audio and video transcription tool born from a simple frustration: constantly turning voice notes and screen recordings into useful text. What began as a terminal experiment is becoming a broader playground for private transcription, translation, and future desktop and Android experiences. [https://github.com/Abdussalam-Mujeeb-ur-rahman/transcribe](https://github.com/Abdussalam-Mujeeb-ur-rahman/transcribe)
+I enjoy solving problems that sit between systems. On one fintech project, I traced intermittent API failures to a race involving a short-lived application credential, then built a central caching layer and updated the request flow so clients no longer refreshed it independently.
 
-I use AI heavily... not as a replacement for engineering judgment, but as a way to explore faster, test ideas, and shorten the distance between “this is annoying” and “it works now.”
+For businesses, my work ranges from customer-facing websites to custom applications and ongoing improvements. Selected live projects include https://managemybuild.uk, https://deltauktransport.com and https://idreamlondon.com.
 
-I’m open to freelance projects, collaborations, and conversations with people building useful things.
+I’m also building Transcribe, a local-first audio and video transcription tool for Mac and Android: https://allahisrabb.pages.dev/transcribe
+
+Portfolio and engineering case studies: https://allahisrabb.pages.dev
+GitHub: https://github.com/Abdussalam-Mujeeb-ur-rahman
+
+I’m open to software engineering roles, contract collaborations, and website or web application projects for businesses.
