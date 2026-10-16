@@ -8,7 +8,7 @@ I’ve contributed production code to an NDA-protected fintech platform that has
 
 I enjoy solving problems that sit between systems. On one fintech project, I traced intermittent API failures to a race involving a short-lived application credential, then built a central caching layer and updated the request flow so clients no longer refreshed it independently.
 
-For businesses, my work ranges from customer-facing websites to custom applications and ongoing improvements. Selected live projects include https://managemybuild.uk, https://deltauktransport.com and https://idreamlondon.com.
+For businesses, my work ranges from customer-facing websites to custom applications and ongoing improvements. Selected live projects include https://managemybuild.uk, https://deltauktransport.com, https://perrypaysmegastore.com, https://idreamlondon.com.
 
 I’m also building Transcribe, a local-first audio and video transcription tool for Mac and Android: https://allahisrabb.pages.dev/transcribe
 
