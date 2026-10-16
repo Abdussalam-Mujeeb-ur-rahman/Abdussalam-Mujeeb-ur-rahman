@@ -13,6 +13,6 @@ For businesses, my work ranges from customer-facing websites to custom applicati
 I’m also building Transcribe, a local-first audio and video transcription tool for Mac and Android: https://allahisrabb.pages.dev/transcribe
 
 Portfolio and engineering case studies: https://allahisrabb.pages.dev
-GitHub: https://github.com/Abdussalam-Mujeeb-ur-rahman
+LinkedIn: https://www.linkedin.com/in/abdussalam-mujeeb-ur-rahman
 
 I’m open to software engineering roles, contract collaborations, and website or web application projects for businesses.
